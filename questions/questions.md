@@ -24,6 +24,7 @@ Please let me know if these options are acceptable to you. If you are still havi
 
 
 Best,
+
 Peter
 
   
@@ -57,6 +58,7 @@ There are a couple of possibilites on why the error occurred:
 Based on the information that you provided, it may seem that possibility number 2 could be the culprit. However, if you feel that you may need more assistance in tackling this issue, I am happy to jump on a call and help diagnose the issue.
 
 Best,
+
 Peter
 
 
@@ -88,6 +90,7 @@ SearchKit is considered part of Elasticsearch's ecosystem. If you already are us
 If you have any additional issues regarding SearchKit, please contact them directly. Please let me know if you have troubles setting up your workspace using Algolia's library.
 
 Best,
+
 Peter
 
 
